@@ -1,0 +1,4 @@
+output_name_prefix	body
+output_name_postfix	
+output_name_ext	dat
+output_type	one_by_body
